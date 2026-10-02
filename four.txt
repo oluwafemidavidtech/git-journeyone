@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+ HEAD
 Hello
-=======
+ main
 Hello
 4
 
-
->>>>>>> main
